@@ -1,4 +1,4 @@
-# Q-learning, leer Readme
+# Q-learning, leer Readme como Raw
 Algoritmo de Q-learning para Covered Path Plannig
 Se adjuntan mapas para probar.
 Los mapas se indexan de la siguiente manera...
